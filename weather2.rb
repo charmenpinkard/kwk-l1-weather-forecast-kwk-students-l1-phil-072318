@@ -1,2 +1,6 @@
 
-weather_forecast = 
+weather_forecast = {
+  
+  :city => "Voorhees"
+  :description => 
+}
