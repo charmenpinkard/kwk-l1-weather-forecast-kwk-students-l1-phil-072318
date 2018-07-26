@@ -2,5 +2,6 @@
 weather_forecast = {
   
   :city => "Voorhees"
-  :description => 
+  :description => "partly cloudy"
+  :temperature_farenheit => 
 }
